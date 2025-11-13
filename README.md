@@ -15,13 +15,12 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
-  <img src="https://img.icons8.com/fluency/48/000000/streamlit.png" title="Streamlit"/>
+
   <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" title="NumPy"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" title="Scikit-Learn"/>
-  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" title="Machine Learning"/>
+
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" title="Matplotlib"/>
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png" title="Seaborn"/>
+
 </p>
 
 ---
