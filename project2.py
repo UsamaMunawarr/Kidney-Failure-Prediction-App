@@ -437,3 +437,30 @@ if predict_btn:
     else:
         st.success("🟩 No Kidney Disease Detected")
 
+
+# --------------------------
+# 👨‍💻 About the Developer
+# --------------------------
+st.title("👨‍💻 About the Developer")
+st.write("<p style='color:blue; font-size: 30px; font-weight: bold;'>Usama Munawar</p>", unsafe_allow_html=True)
+st.markdown("""
+**Data Scientist | MPhil Scholar | Machine Learning Enthusiast**  
+Passionate about transforming raw data into meaningful insights and intelligent systems.
+""")
+
+st.write("##### 🌍 Connect with me:")
+socials = {
+    "GitHub": ("https://github.com/UsamaMunawarr", "https://img.icons8.com/fluent/48/000000/github.png"),
+    "LinkedIn": ("https://www.linkedin.com/in/abu--usama", "https://img.icons8.com/color/48/000000/linkedin.png"),
+    "YouTube": ("https://www.youtube.com/@CodeBaseStats", "https://img.icons8.com/?size=50&id=19318&format=png"),
+    "Twitter": ("https://twitter.com/Usama__Munawar?t=Wk-zJ88ybkEhYJpWMbMheg&s=09", "https://img.icons8.com/color/48/000000/twitter.png"),
+    "Facebook": ("https://www.facebook.com/profile.php?id=100005320726463&mibextid=9R9pXO", "https://img.icons8.com/color/48/000000/facebook-new.png")
+}
+
+social_html = ""
+for name, (url, icon) in socials.items():
+    social_html += f'<a href="{url}" target="_blank"><img src="{icon}" width="50" style="margin:5px;"></a>'
+st.markdown(social_html, unsafe_allow_html=True)
+
+st.write("<p style='color:green; font-size: 25px; font-weight: bold;'>Thank you for using this app, share it with your friends! 😊</p>", unsafe_allow_html=True)
+
