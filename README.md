@@ -17,7 +17,7 @@ Here’s a quick look at the system in action 👇
 
 ## 🧠 Tech Stack & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
 
   <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
