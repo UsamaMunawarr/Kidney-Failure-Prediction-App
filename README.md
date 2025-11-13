@@ -5,7 +5,7 @@
 Here’s a quick look at the system in action 👇
 
 ![Demo](kidney.gif)  
-*A preview of the Mobile Price Predictor app.*
+
   
 
 <p align="center">
