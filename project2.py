@@ -293,7 +293,7 @@ st.write("This web app uses multiple ML models to predict kidney disease from pa
 # 🖼️ Header Image (optional)
 # ============================
 try:
-    image = Image.open("kidney.png")
+    image = Image.open("kidney_1.png")
     st.image(image, caption="Kidney Disease Prediction App", use_container_width=True)
 except:
     st.info("🖼️ No image found — skipping.")
