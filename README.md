@@ -4,10 +4,9 @@
 
 Here’s a quick look at the system in action 👇
 
-![Demo](kidney.gif)
+![Demo](kidney.gif)  
 *A preview of the Mobile Price Predictor app.*
   
-
 
 <p align="center">
   A Streamlit-based web application that predicts **chronic kidney disease (CKD)** using multiple machine learning models.  
